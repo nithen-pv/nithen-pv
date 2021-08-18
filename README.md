@@ -3,17 +3,15 @@
   
   
 
-## I'm a Student and Developer!!
+## I'm a Software Developer!!
 
   
 
-- 🔭 I’m currently working no where!
+- 🔭 I’m currently working at Riafy Technologies!
 
-- 🌱 I’m currently learning BCA at Mes College
+- 🌱 I’m currently learning Serverless architecture
 
 - 👯 I’m looking to collaborate with Node JS Developer
-
-- 🥅 2021 Goals: Contribute more to Open Source projects
 
 - ⚡ Fun fact: I love to watch movies
 
