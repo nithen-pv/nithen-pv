@@ -3,11 +3,9 @@
   
   
 
-## I'm a Software Developer!!
+## I'm a Software Engineer!!
 
   
-
-- 🔭 I’m currently working at Riafy Technologies!
 
 - 🌱 I’m currently learning Serverless architecture
 
@@ -60,4 +58,4 @@
 
   
 
-[linkedin]: https://www.linkedin.com/in/p-v-nithen-51ab7a18b/
+[linkedin]: https://in.linkedin.com/in/pvnithen
